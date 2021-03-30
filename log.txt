@@ -1,7 +1,7 @@
 {"version_code":9999999999,"content":"
-<p>Titulo</p>
+<p>ＳＡＭＵＲＡＩ Ｖ3.1</p>
 
 
-<l>Lista de cambios</li>
+<l>Mejorado</li>
 ","url":"https://youtube.com/c/NOVUSSAMURAIOFC"
 }
